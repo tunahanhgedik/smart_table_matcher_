@@ -1,0 +1,6 @@
+{
+  "name": "GDG Campus Match",
+  "description": "Info session dynamic table matching and onboarding app for Google Developer Groups on Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
